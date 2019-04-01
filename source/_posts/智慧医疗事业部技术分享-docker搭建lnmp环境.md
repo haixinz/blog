@@ -1,7 +1,7 @@
 ---
 title: 智慧医疗事业部技术分享-docker搭建lnmp环境
 date: 2018-8-31 09:44:32
-tags: linux
+tags: docker
 ---
 
 

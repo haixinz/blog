@@ -1,7 +1,7 @@
 ---
 title: win10 -> ubuntu虚拟机->docker  php开发环境搭建
 date: 2018-9-31 09:44:32
-tags: linux
+tags: docker
 ---
 
 记录一下用windows 搭建linux的docker php 开发环境，实现在windows下开发，在docker中运行。坑还是很多的。
