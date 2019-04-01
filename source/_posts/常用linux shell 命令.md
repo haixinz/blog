@@ -1,1 +1,6 @@
-查看文件夹大小  du -h --max-depth=1
+---
+title: linux甯哥敤shell鍛戒护
+tags: linux
+---
+
+鏌ョ湅鏂囦欢澶瑰ぇ灏忥細du -h --max-depth=1
